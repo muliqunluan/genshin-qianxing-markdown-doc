@@ -1,0 +1,736 @@
+[
+    {
+        "title": "读前须知",
+        "path_id": "mh29wpicgvh0",
+        "children": []
+    },
+    {
+        "title": "界面介绍",
+        "path_id": "mhz71urk21nq",
+        "children": [
+            {
+                "title": "整体界面",
+                "path_id": "mhn4bsi5lb58",
+                "children": []
+            },
+            {
+                "title": "地形编辑",
+                "path_id": "mhwe1n94b1x6",
+                "children": [],
+                "videoPoster": "https://act-webstatic.mihoyo.com/ugc-tutorial/knowledge/cn/zh-cn/mhwe1n94b1x6/fc69214f-5c2e-48df-8b82-969a9d8277a4.mp4?x-oss-process=video/snapshot,t_1,f_jpg,w_1920,m_fast"
+            },
+            {
+                "title": "实体摆放",
+                "path_id": "mhnffmieeqbg",
+                "children": []
+            },
+            {
+                "title": "元件库",
+                "path_id": "mhwp5h9d4h3e",
+                "children": []
+            },
+            {
+                "title": "战斗预设",
+                "path_id": "mhexhcr1qjh2",
+                "children": []
+            },
+            {
+                "title": "关卡设置",
+                "path_id": "mhn9vpia00qc",
+                "children": []
+            },
+            {
+                "title": "试玩",
+                "path_id": "mhie54ik9ovg",
+                "children": []
+            },
+            {
+                "title": "多人试玩",
+                "path_id": "mh9fj3rudd9q",
+                "children": []
+            },
+            {
+                "title": "千星沙箱",
+                "path_id": "mho777i0ga90",
+                "children": []
+            },
+            {
+                "title": "资产导入导出",
+                "path_id": "mhxbd59urbfu",
+                "children": []
+            },
+            {
+                "title": "撤销与还原",
+                "path_id": "mhq6wdimcd84",
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "概念介绍",
+        "path_id": "mhdtk89yhd6q",
+        "children": [
+            {
+                "title": "单位",
+                "path_id": "mh2xoxrop0la",
+                "children": [
+                    {
+                        "title": "玩家",
+                        "path_id": "mhctmgi51lpo",
+                        "children": [
+                            {
+                                "title": "复苏",
+                                "path_id": "mh796lr44x0e",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "角色",
+                        "path_id": "mh3ecor1x5cm",
+                        "children": []
+                    },
+                    {
+                        "title": "造物",
+                        "path_id": "mhufqo0c0tqw",
+                        "children": []
+                    },
+                    {
+                        "title": "物件",
+                        "path_id": "mhlh4n9m4i56",
+                        "children": []
+                    },
+                    {
+                        "title": "本地投射物",
+                        "path_id": "mhciimiw86jg",
+                        "children": []
+                    },
+                    {
+                        "title": "关卡",
+                        "path_id": "mh3pgiraqkiu",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "title": "功能",
+                "path_id": "mhjx2miruaos",
+                "children": [
+                    {
+                        "title": "基础信息",
+                        "path_id": "mh3oxo0ojgxk",
+                        "children": [
+                            {
+                                "title": "变换、原生碰撞、可见性和创建设置",
+                                "path_id": "mhuqbn9yn5bu",
+                                "children": []
+                            },
+                            {
+                                "title": "模型",
+                                "path_id": "mhrutdio6904",
+                                "children": []
+                            },
+                            {
+                                "title": "阵营",
+                                "path_id": "mhe1ixri46ta",
+                                "children": []
+                            },
+                            {
+                                "title": "单位标签",
+                                "path_id": "mhzldmiwdgu4",
+                                "children": []
+                            },
+                            {
+                                "title": "实体布设组",
+                                "path_id": "mhqmrlr6h58e",
+                                "children": []
+                            },
+                            {
+                                "title": "负载优化",
+                                "path_id": "mhlb1vivioys",
+                                "children": []
+                            },
+                            {
+                                "title": "数据复制粘贴",
+                                "path_id": "mh6fj30p2cmo",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "特化配置",
+                        "path_id": "mhtwkur42see",
+                        "children": [
+                            {
+                                "title": "基础战斗属性",
+                                "path_id": "mhvyqz9xwu0q",
+                                "children": []
+                            },
+                            {
+                                "title": "仇恨配置",
+                                "path_id": "mhw9ut96q96y",
+                                "children": []
+                            },
+                            {
+                                "title": "受击盒设置",
+                                "path_id": "mhvg40rc5w9i",
+                                "children": []
+                            },
+                            {
+                                "title": "战斗设置",
+                                "path_id": "mha42r0cwx74",
+                                "children": []
+                            },
+                            {
+                                "title": "能力单元",
+                                "path_id": "mh0ucw9e76f6",
+                                "children": []
+                            },
+                            {
+                                "title": "常规设置",
+                                "path_id": "mh3rgo0c16c8",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "通用组件",
+                        "path_id": "mhei6orvcbkm",
+                        "children": [
+                            {
+                                "title": "选项卡",
+                                "path_id": "mh5jko05fzyw",
+                                "children": []
+                            },
+                            {
+                                "title": "基础运动器",
+                                "path_id": "mhnmcmipncrg",
+                                "children": []
+                            },
+                            {
+                                "title": "碰撞触发器",
+                                "path_id": "mh8w69rzuc3i",
+                                "children": []
+                            },
+                            {
+                                "title": "自定义变量",
+                                "path_id": "mhso1b9wjica",
+                                "children": []
+                            },
+                            {
+                                "title": "投射运动器",
+                                "path_id": "mhaqt9rgqv4u",
+                                "children": []
+                            },
+                            {
+                                "title": "角色扰动装置",
+                                "path_id": "mhstl890y7xe",
+                                "children": []
+                            },
+                            {
+                                "title": "全局计时器",
+                                "path_id": "mhawd6rl5kpy",
+                                "children": []
+                            },
+                            {
+                                "title": "定时器",
+                                "path_id": "mhufb90zbnts",
+                                "children": []
+                            },
+                            {
+                                "title": "命中检测",
+                                "path_id": "mh2pir0hat1s",
+                                "children": []
+                            },
+                            {
+                                "title": "额外碰撞",
+                                "path_id": "mhuiob9dg1dm",
+                                "children": []
+                            },
+                            {
+                                "title": "跟随运动器",
+                                "path_id": "mhuts59m9gju",
+                                "children": []
+                            },
+                            {
+                                "title": "单位状态",
+                                "path_id": "mhd7nxrfa8im",
+                                "children": []
+                            },
+                            {
+                                "title": "特效播放",
+                                "path_id": "mh4ppo02m1o8",
+                                "children": []
+                            },
+                            {
+                                "title": "自定义挂接点",
+                                "path_id": "mhmshmimtegs",
+                                "children": []
+                            },
+                            {
+                                "title": "碰撞触发源",
+                                "path_id": "mhn95di01j84",
+                                "children": []
+                            },
+                            {
+                                "title": "音效播放器",
+                                "path_id": "mhwiv89yra02",
+                                "children": []
+                            },
+                            {
+                                "title": "铭牌",
+                                "path_id": "mh5n160t2b6w",
+                                "children": []
+                            },
+                            {
+                                "title": "文本气泡",
+                                "path_id": "mhwtz297kp6a",
+                                "children": []
+                            },
+                            {
+                                "title": "背包组件",
+                                "path_id": "mh5y5001vqd4",
+                                "children": []
+                            },
+                            {
+                                "title": "战利品",
+                                "path_id": "mh63ox06afy8",
+                                "children": []
+                            },
+                            {
+                                "title": "商店组件",
+                                "path_id": "mho6gviqhsqs",
+                                "children": []
+                            },
+                            {
+                                "title": "扫描标签",
+                                "path_id": "mhfc0lr1tcke",
+                                "children": []
+                            },
+                            {
+                                "title": "小地图标识",
+                                "path_id": "mh0pppib5eyc",
+                                "children": []
+                            },
+                            {
+                                "title": "光源",
+                                "path_id": "mhgkan9wgil6",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "节点图",
+                        "path_id": "mhjwjrr5n73i",
+                        "children": [
+                            {
+                                "title": "基础概念",
+                                "path_id": "mhk23ora1wom",
+                                "children": []
+                            },
+                            {
+                                "title": "节点图编辑指引",
+                                "path_id": "mhb3ho0k5l2w",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "资产",
+                "path_id": "mhmzm3rltetq",
+                "children": [
+                    {
+                        "title": "特效",
+                        "path_id": "mhe1030vx380",
+                        "children": []
+                    },
+                    {
+                        "title": "预设状态",
+                        "path_id": "mhw3s1ig4g0k",
+                        "children": []
+                    },
+                    {
+                        "title": "技能动画",
+                        "path_id": "mh57xz9afh7e",
+                        "children": []
+                    },
+                    {
+                        "title": "界面控件",
+                        "path_id": "mhnapxrumtzy",
+                        "children": [
+                            {
+                                "title": "交互按钮界面控件",
+                                "path_id": "mhwkfsitckrw",
+                                "children": []
+                            },
+                            {
+                                "title": "道具展示界面控件",
+                                "path_id": "mhjja1ipq9ck",
+                                "children": []
+                            },
+                            {
+                                "title": "文本框界面控件",
+                                "path_id": "mhnltrr3g966",
+                                "children": []
+                            },
+                            {
+                                "title": "弹窗界面控件",
+                                "path_id": "mhen7r0djxkg",
+                                "children": []
+                            },
+                            {
+                                "title": "进度条界面控件",
+                                "path_id": "mhwpzpixrad0",
+                                "children": []
+                            },
+                            {
+                                "title": "计时器界面控件",
+                                "path_id": "mhnrdor7uyra",
+                                "children": []
+                            },
+                            {
+                                "title": "计分板界面控件",
+                                "path_id": "mhesro0hyn5k",
+                                "children": []
+                            },
+                            {
+                                "title": "卡牌选择器界面控件",
+                                "path_id": "mh2teu0bmfbc",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "高级概念",
+                "path_id": "mheybl0mdcqo",
+                "children": [
+                    {
+                        "title": "界面控件组管理",
+                        "path_id": "mhewyi0fjfvs",
+                        "children": [
+                            {
+                                "title": "界面布局",
+                                "path_id": "mhozt0r74ng6",
+                                "children": []
+                            },
+                            {
+                                "title": "界面控件组",
+                                "path_id": "mhg1700h8bug",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "主镜头",
+                        "path_id": "mhfua005zpeg",
+                        "children": []
+                    },
+                    {
+                        "title": "外围系统",
+                        "path_id": "mhjsw9rluwou",
+                        "children": [
+                            {
+                                "title": "排行榜",
+                                "path_id": "mho2rt9ir6ay",
+                                "children": []
+                            },
+                            {
+                                "title": "竞技段位",
+                                "path_id": "mhf45sisuup8",
+                                "children": []
+                            },
+                            {
+                                "title": "成就",
+                                "path_id": "mh65jrr2yj3i",
+                                "children": []
+                            },
+                            {
+                                "title": "关卡结算",
+                                "path_id": "mhx1du08nhwo",
+                                "children": []
+                            },
+                            {
+                                "title": "奇域礼盒",
+                                "path_id": "mhjdhpi4sd10",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "资源系统",
+                        "path_id": "mht8l59439d6",
+                        "children": [
+                            {
+                                "title": "道具",
+                                "path_id": "mhbgx0rspbqu",
+                                "children": []
+                            },
+                            {
+                                "title": "装备",
+                                "path_id": "mhkl2yin0cxo",
+                                "children": []
+                            },
+                            {
+                                "title": "货币",
+                                "path_id": "mh2cr30yeak0",
+                                "children": []
+                            },
+                            {
+                                "title": "背包",
+                                "path_id": "mhogfq9bf86q",
+                                "children": []
+                            },
+                            {
+                                "title": "掉落物",
+                                "path_id": "mhkfj1iilnck",
+                                "children": []
+                            },
+                            {
+                                "title": "商店",
+                                "path_id": "mhi9s7isvp50",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "技能",
+                        "path_id": "mho81frl33im",
+                        "children": [
+                            {
+                                "title": "技能资源",
+                                "path_id": "mh6ate95agb6",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "title": "职业",
+                        "path_id": "mhodlcrpht3q",
+                        "children": []
+                    },
+                    {
+                        "title": "单位状态",
+                        "path_id": "mh6rh59iil2i",
+                        "children": []
+                    },
+                    {
+                        "title": "预设点",
+                        "path_id": "mhfvn30ctm9c",
+                        "children": []
+                    },
+                    {
+                        "title": "护盾",
+                        "path_id": "mhhl0gire830",
+                        "children": []
+                    },
+                    {
+                        "title": "路径",
+                        "path_id": "mh333vim2h44",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "title": "其它概念",
+                "path_id": "mhh5zgirw9cc",
+                "children": [
+                    {
+                        "title": "局内存档",
+                        "path_id": "mhzcw29qjjma",
+                        "children": []
+                    },
+                    {
+                        "title": "多语言文本",
+                        "path_id": "mhk59aiqtwyk",
+                        "children": []
+                    },
+                    {
+                        "title": "文字聊天",
+                        "path_id": "mhaneb9qnvay",
+                        "children": []
+                    },
+                    {
+                        "title": "背景音乐",
+                        "path_id": "mhq9b601kh9k",
+                        "children": []
+                    },
+                    {
+                        "title": "环境配置",
+                        "path_id": "mhdznsie9up8",
+                        "children": []
+                    },
+                    {
+                        "title": "元件组",
+                        "path_id": "mhzhzb9rw0uy",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "节点介绍",
+        "path_id": "mhsok60iqlxk",
+        "children": [
+            {
+                "title": "服务器节点",
+                "path_id": "mhuto3r800b2",
+                "children": [
+                    {
+                        "title": "执行节点",
+                        "path_id": "mhw66orrrfkm",
+                        "children": []
+                    },
+                    {
+                        "title": "事件节点",
+                        "path_id": "mhn7ko01v3yw",
+                        "children": []
+                    },
+                    {
+                        "title": "流程控制节点",
+                        "path_id": "mhe8yn9bysd6",
+                        "children": []
+                    },
+                    {
+                        "title": "查询节点",
+                        "path_id": "mhwbqlrw655q",
+                        "children": []
+                    },
+                    {
+                        "title": "运算节点",
+                        "path_id": "mhnd4l069tk0",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "title": "客户端节点",
+                "path_id": "mhlv230i3opc",
+                "children": [
+                    {
+                        "title": "查询节点",
+                        "path_id": "mholjx05ji8w",
+                        "children": []
+                    },
+                    {
+                        "title": "运算节点",
+                        "path_id": "mhfmxw9fn6n6",
+                        "children": []
+                    },
+                    {
+                        "title": "执行节点",
+                        "path_id": "mh6obvipqv1g",
+                        "children": []
+                    },
+                    {
+                        "title": "流程控制节点",
+                        "path_id": "mhxppurzujfq",
+                        "children": []
+                    },
+                    {
+                        "title": "其它节点",
+                        "path_id": "mhor3u09y7u0",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "辅助功能",
+        "path_id": "mhoyplr76zr2",
+        "children": [
+            {
+                "title": "负载计算功能",
+                "path_id": "mho2hirgodxi",
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "附录",
+        "path_id": "mhsumxr9cf3y",
+        "children": [
+            {
+                "title": "能力单元效果",
+                "path_id": "mhrvqvioautg",
+                "children": []
+            },
+            {
+                "title": "造物行为模式图鉴",
+                "path_id": "mhyg4i0inazs",
+                "children": []
+            },
+            {
+                "title": "造物行为模式的未入战行为",
+                "path_id": "mhpsmb91keka",
+                "children": []
+            },
+            {
+                "title": "造物技能说明",
+                "path_id": "mhzys1ic5eok",
+                "children": []
+            },
+            {
+                "title": "单位状态效果池",
+                "path_id": "mhou93r2pxv2",
+                "children": []
+            },
+            {
+                "title": "节点图高级特性",
+                "path_id": "mhk7nlregm9q",
+                "children": [
+                    {
+                        "title": "泛型引脚",
+                        "path_id": "mhkirfrna1fy",
+                        "children": []
+                    },
+                    {
+                        "title": "节点图变量",
+                        "path_id": "mhtshailzs7w",
+                        "children": []
+                    },
+                    {
+                        "title": "复合节点",
+                        "path_id": "mhty17iqeht0",
+                        "children": []
+                    },
+                    {
+                        "title": "节点图日志",
+                        "path_id": "mhu951iz7wz8",
+                        "children": []
+                    },
+                    {
+                        "title": "客户端节点图日志",
+                        "path_id": "mhrnuz9izfne",
+                        "children": []
+                    },
+                    {
+                        "title": "复合节点图日志",
+                        "path_id": "mhip8yit341o",
+                        "children": []
+                    },
+                    {
+                        "title": "信号",
+                        "path_id": "mhlaj0r9bldi",
+                        "children": []
+                    },
+                    {
+                        "title": "字典",
+                        "path_id": "mhubgk9yy8gy",
+                        "children": []
+                    },
+                    {
+                        "title": "结构体",
+                        "path_id": "mh3fmi0t99ns",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+]
